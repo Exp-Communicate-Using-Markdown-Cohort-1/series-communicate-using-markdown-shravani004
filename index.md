@@ -5,3 +5,7 @@
 ```
 <h1> This is a header </h1>
 ```
+
+- [ ] Start my day
+- [ ] Code
+- [ ] Finish my day
